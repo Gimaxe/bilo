@@ -16,7 +16,7 @@
                 
             </div>
 
-            <div class="absolute top-0 w-full	left-0	 mt-96 z-10 flex flex-col justify-center items-center ">
+            <div class="absolute top-0 w-full	left-0	 mt-96 z-10 flex flex-col justify-center items-center">
                 <div class="flex">
                     <h1 class="text-6xl font-bold mb-8">Bienvenue sur Bilo</h1>
                     <p class="font-text-xs">V1.0</p>
