@@ -9,7 +9,7 @@
 </head>
 <body class=" overflow-x-hidden overflow-y-hidden h-screen w-full text-white ">
 
-            <?php include "../backend/visit.php" ?>
+            
          
             <div class=" h-screen relative z-0 w-screen flex flex-col ">
                 <video src="assets/Background movie.mp4" autoplay muted loop style="width: 100vw;"></video>
@@ -28,6 +28,12 @@
                     <a class="bg-transparent p-3 mr-5 border-2 border-white border-opacity-20 " href="pages/connexion.php">Connexion</a>
                     <a class="bg-transparent p-3 border-2 border-white border-opacity-20 " href="pages/inscription.php">Inscription</a>
                 </div>
+
+                <div id="footer" class="mt-5 p-4 fixed bottom-0 left-0 w-full text-center">
+                    <a href="pages/mentions-légales.php" class="underline p-2" target="blank">Mentions légales</a>
+                    <a href="#" class="underline p-2">CGU</a>
+                </div>
+
             </div>
 
 
