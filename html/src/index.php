@@ -31,7 +31,7 @@
 
                 <div id="footer" class="mt-5 p-4 fixed bottom-0 left-0 w-full text-center">
                     <a href="pages/mentions-légales.php" class="underline p-2" target="blank">Mentions légales</a>
-                    <a href="#" class="underline p-2">CGU</a>
+                    <a href="pages/cgu.php" class="underline p-2" target="blank">CGU</a>
                 </div>
 
             </div>
